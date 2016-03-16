@@ -1,0 +1,4 @@
+{
+  "IamRoleArnLambda": "arn:aws:iam::034890052589:role/fe-lambda-seed-dev-IamRoleLambda-QUB5O1TRPU2E",
+  "IamRoleArnApiGateway": "arn:aws:iam::034890052589:role/fe-lambda-seed-dev-IamRoleApiGateway-3SMSHPFYETX0"
+}
